@@ -5,9 +5,9 @@ The focus of this project is to update website structure for the client by defin
 Working on and identifying correct sections of the code, allowed me to better understand semantic HTML rules and its applications.
 New changes include:
 -changing the title of the website to the company name,
--changing div elements to more suitable & semantic elements such as <header>, <article> and <footer>,
--adding alt attributes to <img> to enable accessibility for screen readers,
--changing <h2> element in the <footer> to <h3> element.
+-changing div elements to more suitable & semantic elements such as header, article and footer,
+-adding alt attributes to img to enable accessibility for screen readers,
+-changing h2 element in the footer to h3 element.
 
 
 ## Installation
